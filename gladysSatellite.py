@@ -2,7 +2,7 @@ import io
 import json
 
 """
-	Student: Gabriel Solomon
+	Student: Avyuktha Mattupalli and Mary Ivanov
 	Module: gladysSatellite
 	Description: This module does …
 """
